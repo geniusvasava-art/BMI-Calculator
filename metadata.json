@@ -1,0 +1,6 @@
+{
+  "name": "Body Mass Index & Webcam Capture",
+  "description": "Capture body image using webcam, input age, weight, and height to calculate Body Mass Index (BMI), with real-time high-BMI audio warning beeps and visual alerts.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
